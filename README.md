@@ -12,8 +12,7 @@ Untuk memecahkan permasalahan di atas, kita perlu mengetahui terlebih dahulu con
 Salah satu cara yang baik untuk memperkenalkan Channel Youtube yang baru adalah dengan memanfaatkan Youtube Trends. Ketika video dari suatu channel trending, maka channel dan video-video dari channel tersebut juga akan semakin mudah dijangkau oleh lebih banyak pengguna YouTube.
 
 Berdasarkan Youtube Helps Center, YouTube dapat menampilkan video pada laman Trending dengan beberapa pertimbangan seperti:
-
-Seberapa cepat video menghasilkan views (Temperature)
-Dari mana views berasal (untuk menentukan lokasi Trending berdasarkan negara)
-Performa video lebih baik dibandingkan rata2 performa video lainnya dari channel yang sama
-Video bukan clickbait dan video sensasi
+- Seberapa cepat video menghasilkan views (Temperature)
+- Dari mana views berasal (untuk menentukan lokasi Trending berdasarkan negara)
+- Performa video lebih baik dibandingkan rata2 performa video lainnya dari channel yang sama
+- Video bukan clickbait dan video sensasi
